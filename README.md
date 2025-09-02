@@ -42,9 +42,3 @@ Designed for: reliability, large datasets, zero/low hardcoding, and easy extensi
 
 ---
 
-## 📂 Project Structure
-
-
-        "path": ".checkpoints"       # local dir or mount
-    }
-}
